@@ -54,9 +54,9 @@ I'm a **Student at M S Ramaiah Institute of Technology** with a passion for buil
 
 ### 👾 Contribution Grid
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/github-contribution-grid-pacman.svg">
-  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/pacman-contribution-graph.svg">
+  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/mayur-shenoy/mayur-shenoy/output/pacman-contribution-graph.svg">
 </picture>
 
 ### ✍️ Random Dev Quote
